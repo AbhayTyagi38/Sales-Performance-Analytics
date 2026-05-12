@@ -36,6 +36,8 @@ This project is ideal for learning data cleaning, exploratory data analysis (EDA
 # 📂 Project Structure
 sales-performance-analytics/
 │── sales_analysis.ipynb
-│── sales_data.csv
+│── Sample - Superstore.csv
+│── Summary_report.xlsx
+│── superstore_cleaned.csv
 │── dashboard.png
 │── README.md
